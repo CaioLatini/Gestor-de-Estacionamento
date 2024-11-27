@@ -19,7 +19,7 @@ Este sistema de terminal foi desenvolvido em **C#** e tem como objetivo facilita
    - Veja quanto foi arrecadado e quem ainda está ocupando espaço. Relatórios claros e precisos, sempre a mão!
 
 4. **Simples de Usar:**
-   - Interface intuitiva, amigável e até mesmo um pouco sarcástica para garantir que você se divirta enquanto trabalha.
+   - Interface intuitiva e amigável.
    - Mensagens claras e orientações passo a passo.
 
 ## Estrutura do Código
@@ -56,12 +56,8 @@ Este sistema de terminal foi desenvolvido em **C#** e tem como objetivo facilita
 
 Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Pull requests são bem-vindos!
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
-😎 **Gestor de Estacionamento 3000** - Porque estacionar nunca foi tão divertido!
+😎 **Gestor de Estacionamento 3000** - Porque estacionar nunca foi tão facil!
 
 # Gestor-de-Estacionamento
