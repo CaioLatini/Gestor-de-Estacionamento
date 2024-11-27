@@ -1,13 +1,14 @@
-# Gestor de Estacionamento 3000
+# 🚗 **Gestor de Estacionamento 3000** 🚗
 
-🎉 **Bem-vindo ao Gestor de Estacionamento 3000!** 🚗🚙🚕
-Este é o mais avançado, revolucionário e simpático sistema de gerenciamento de estacionamento que você já viu. Nosso objetivo é tornar a vida dos gestores de estacionamento mais fácil e mais divertida. Vamos dar uma olhada no que o nosso Gestor de Estacionamento 3000 pode fazer por você!
+Bem-vindo ao **Gestor de Estacionamento 3000**, o sistema definitivo para gerenciar seu estacionamento! 😎
+
+Este sistema de terminal foi desenvolvido em **C#** e tem como objetivo facilitar a administração de um estacionamento, permitindo registrar entradas e saídas de veículos, gerar relatórios detalhados e, claro, liberar vagas conforme a demanda. Com ele, você consegue controlar todos os carros que estacionaram, calcular os valores de forma automática e ainda saber o total arrecadado.
 
 ## Funcionalidades Principais
 
 1. **Entrada de Veículos:** 
    - Registre a entrada dos carros e acompanhe o horário exato de chegada.
-   - Placas validadas e vagas verificadas, garantindo que ninguém estacione onde não deve!
+   - Placas validadas e vagas verificadas, garantindo que ninguém estacione onde não deve.
 
 2. **Saída de Veículos:**
    - Registre a saída dos carros e calcule automaticamente o valor a ser pago baseado no tempo de permanência.
